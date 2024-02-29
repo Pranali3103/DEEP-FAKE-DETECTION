@@ -1,0 +1,7 @@
+pip3 install jupyter==1.0.0
+pip3 install gradio==3.23.0
+pip3 install Pillow==9.4.0
+pip3 install facenet-pytorch==2.5.2
+pip3 install torch==1.11.0
+pip3 install opencv-python==4.7.0.72
+pip3 install grad-cam==1.4.6
